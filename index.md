@@ -10,3 +10,4 @@ Further updates will be posted here.
 
 # CISC 322/326: A1
 ## Report
+<embed src="https://github.com/jdhickey/echo-cowsay/raw/refs/heads/main/media/A1_Report.pdf" type="application/pdf">
