@@ -10,9 +10,4 @@ Further updates will be posted here.
 
 # CISC 322/326: A1
 ## Report
-<object data="./media/A1_report.pdf" type="application/pdf" width="100%" height="100%" aria-labelledby="PDF document" title="Embedded PDF Viewer">
-	<p>
-		Your browser does not support PDFs.
-		<a href="./media/A1_report.pdf">Download PDF</a>
-	</p>
-</object>
+<embed src="./media/A1_report.pdf" width="500" height="375" type="application/pdf">
