@@ -16,8 +16,7 @@ Further updates will be posted here.
 	width="100%"
 	height="100%"
 	aria-labelledby="PDF document"
-	title="Embedded PDF Viewer"
->
+	title="Embedded PDF Viewer">
 	<p>
 		Your browser does not support PDFs.
 		<a href="https://github.com/jdhickey/echo-cowsay/raw/refs/heads/main/media/A1_Report.pdf">
