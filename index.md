@@ -4,7 +4,7 @@ Further updates will be posted here.
 
 <div style="width: 100%">
 <video muted autoplay loop style="display: block; margin: 0 auto">
-<source src="https://github.com/jdhickey/echo-cowsay/raw/refs/heads/main/media/bird_dance.mp4" type="video/mp4">
+<source src="./media/bird_dance.mp4" type="video/mp4">
 </video>
 </div>
 
