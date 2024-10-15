@@ -10,3 +10,4 @@ Further updates will be posted here.
 
 # CISC 322/326: A1
 ## Report
+{{ site.baseurl }}{{ media/A1_report.pdf }}
