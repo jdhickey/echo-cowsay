@@ -10,4 +10,4 @@ Further updates will be posted here.
 
 # CISC 322/326: A1
 ## Report
-<embed src="./media/A1_report.pdf" width="500" height="375" type="application/pdf">
+<object class="pdf" data="./media/A1_report.pdf" width="800" height="500"></object>
