@@ -10,8 +10,4 @@ Further updates will be posted here.
 
 # CISC 322/326: A1
 ## Report
-<object data="https://github.com/jdhickey/echo-cowsay/media/A1_Report.pdf" width="1000" height="1000" type='application/pdf'/>
-
-
-
-
+<object src="./media/A1_report.pdf" width="1000" height="1000" type='application/pdf'></object>
