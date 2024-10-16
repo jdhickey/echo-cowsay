@@ -10,4 +10,4 @@ Further updates will be posted here.
 
 # CISC 322/326: A1
 ## Report
-<object src="./media/A1_report.pdf" width="1000" height="1000" type='application/pdf'></object>
+<div style="padding-top: 130%; position: relative;"><embed src="https://drive.google.com/viewerng/viewer?embedded=true&amp;url=https://github.com/jdhickey/echo-cowsay/raw/main/media/A1_Report.pdf" type="application/pdf" style="width: 100%; height: 100%; position: absolute; top: 0;"></div>
