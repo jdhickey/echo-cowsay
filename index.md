@@ -14,6 +14,5 @@ Further updates will be posted here.
 
 ## Presentation
 <div style="width: 100%">
-  <object data="https://www.youtube.com/watch?v=C0m2P8AANys"
-   width="560" height="315"></object>
+  <object data="https://www.youtube.com/watch?v=C0m2P8AANys" style="display: block; margin: 0 auto"></object>
 </div>
