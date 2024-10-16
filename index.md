@@ -11,3 +11,9 @@ Further updates will be posted here.
 # CISC 322/326: A1
 ## Report
 <div style="padding-top: 130%; position: relative;"><embed src="https://drive.google.com/viewerng/viewer?embedded=true&amp;url=https://github.com/jdhickey/echo-cowsay/raw/main/media/A1_Report.pdf" type="application/pdf" style="width: 100%; height: 100%; position: absolute; top: 0;"></div>
+## Presentation
+<div style="width: 100%">
+<video style="display: block; margin: 0 auto">
+<source src="https://www.youtube.com/watch?v=C0m2P8AANys" type="video/mp4">
+</video>
+</div>
