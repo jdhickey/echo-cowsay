@@ -16,3 +16,12 @@ Further updates will be posted here.
 <div style="padding-top: 56.25%; position: relative;">
   <iframe style="width: 100%; height: 100%; position: absolute; top: 0;" src="https://www.youtube.com/embed/C0m2P8AANys?si=WngHUToOTb8z7N0M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 </div>
+
+# CISC 322/326: A2
+## Report
+<div style="padding-top: 130%; position: relative;"><embed src="https://drive.google.com/viewerng/viewer?embedded=true&amp;url=https://github.com/jdhickey/echo-cowsay/raw/main/media/A2_Report.pdf" type="application/pdf" style="width: 100%; height: 100%; position: absolute; top: 0;"></div>
+
+## Presentation
+<div style="padding-top: 56.25%; position: relative;">
+  <iframe style="width: 100%; height: 100%; position: absolute; top: 0;" src="https://www.youtube.com/embed/3-lYMSmrrJo?si=7rmn4gZhVP0lR0_Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+</div>
