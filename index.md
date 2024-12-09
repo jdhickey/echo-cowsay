@@ -4,6 +4,8 @@
 - [A1 Presentation](#A1.2)
 - [A2 Report](#A2.1)
 - [A2 Presentation](#A2.2)
+- [A3 Report](#A3.1)
+- [A3 Presentation](#A3.2)
 
 # CISC 322/326: A0 <a name="A0"></a>
 This site serves to host every deliverable for this class on a publicly accessable website.  
@@ -32,3 +34,19 @@ Further updates will be posted here.
 <div style="padding-top: 56.25%; position: relative;">
   <iframe style="width: 100%; height: 100%; position: absolute; top: 0;" src="https://www.youtube.com/embed/3-lYMSmrrJo?si=7rmn4gZhVP0lR0_Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 </div>
+
+# CISC 322/326: A3
+## Report <a name="A3.1"></a>
+<div style="padding-top: 130%; position: relative;"><embed src="https://drive.google.com/viewerng/viewer?embedded=true&amp;url=https://github.com/jdhickey/echo-cowsay/raw/main/media/A3_Report.pdf" type="application/pdf" style="width: 100%; height: 100%; position: absolute; top: 0;"></div>
+
+## Presentation <a name="A3.2"></a>
+<div style="padding-top: 56.25%; position: relative;">
+  <iframe style="width: 100%; height: 100%; position: absolute; top: 0;" src="https://www.youtube.com/embed/4O3Bbi2vNIg?si=xouNSUjR-Ek15BmS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+</div>
+
+
+
+
+
+
+
